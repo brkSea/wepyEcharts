@@ -1,0 +1,17 @@
+{
+	"description": "实例，学习用",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"nodeModules": false,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wx6d7f6d9a36ffd30b",
+	"projectname": "demo",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
